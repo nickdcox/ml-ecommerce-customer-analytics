@@ -3,11 +3,11 @@
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-Objective: To perform a variety of customer analytics, including customer segmentation, calculating customer lifetime value and predicting next purchase date for an ecommerce business, and to provide value-add recommendations based on the analytics.
+**Objective:** To perform a variety of customer analytics, including customer segmentation, calculating customer lifetime value and predicting next purchase date for an ecommerce business, and to provide value-add recommendations based on the analytics.
 
-Tools Used: Python, Pandas, scikit-learn, Matplotlib, Seaborn
+**Tools Used:** Python, Pandas, scikit-learn, Matplotlib, Seaborn
 
-Skills Demonstrated: Data Cleaning, Feature Extraction, Exploratory Data Analysis, K-Means Clustering (Unsupervised Learning), Linear Regression (Supervised Learning), Customer Segmentation, Data Visualization
+**Skills Demonstrated:** Data Cleaning, Feature Extraction, Exploratory Data Analysis, K-Means Clustering (Unsupervised Learning), Linear Regression (Supervised Learning), Customer Segmentation, Data Visualization
 
 **Recommendations:**
 
